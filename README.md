@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[rmtDev](https://github.com/ElvinWeb/rmtDev.git) project(web application)**
+ 🔭 I’m currently working on **[WorldWise](https://github.com/ElvinWeb/WorldWise.git) project(web application)**
  
  🌱 I’m currently learning **React, Next.js, TypeScript**
 
