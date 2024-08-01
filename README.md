@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[WorldWise](https://github.com/ElvinWeb/WorldWise.git) project(web application)**
+ 🔭 I’m currently working on **[Wild Oasis](https://github.com/ElvinWeb/Wild-Oasis.git) project(web application)**
  
  🌱 I’m currently learning **React, Next.js, TypeScript**
 
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,sass,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=js,babel,webpack,jquery,npm,typescript,vercel,dotnet,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,mui,styledcomponents,html,css,sass,vscode,github,git,figma" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,webpack,jquery,npm,babel,vercel,netlify,postman,vite,supabase" /><br>
 </div>
 
 <br/>
