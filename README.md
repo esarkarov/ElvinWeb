@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **[Wild Oasis](https://github.com/ElvinWeb/Wild-Oasis.git) project(web application)**
  
- 🌱 I’m currently learning **React, Next.js, TypeScript**
+ 🌱 I’m currently learning **Next.js, TypeScript, PWA**
 
-💬 Ask me about **JavaScript, Bootstrap, React, TypeScript... or anything [here](https://github.com/ElvinWeb/ElvinWeb/issues)**
+💬 Ask me about **JavaScript, Tailwind Css, React, TypeScript... or anything [here](https://github.com/ElvinWeb/ElvinWeb/issues)**
 
  </div>
  
