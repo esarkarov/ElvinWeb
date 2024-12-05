@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👨‍💻;+I'm+Elvin+Sarkarov;" />
 </h1>
 
-<h3 align="center">A passionate FrontEnd Developer from Azerbaijan</h3>
+<h3 align="center">A passionate Junior Software Developer from Azerbaijan</h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **[Ryde](https://github.com/ElvinWeb/Ryde.git) project(mobile application)**
  
- 🌱 I’m currently learning **Next.js, TypeScript, React Native**
+ 🌱 I’m currently learning **TypeScript, React Native, Next.js**
 
-💬 Ask me about **JavaScript, Tailwind Css, React, TypeScript... or anything [here](https://github.com/ElvinWeb/ElvinWeb/issues)**
+💬 Ask me about **JavaScript, TypeScript, React, Tailwind CSS... or anything [here](https://github.com/ElvinWeb/ElvinWeb/issues)**
 
  </div>
  
