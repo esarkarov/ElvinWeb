@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[StoreIt](https://github.com/ElvinWeb/StoreIt.git) project(web app)**
+ 🔭 I’m currently working on **[CodeCraft](https://github.com/ElvinWeb/CodeCraft.git) project(online code editor)**
  
- 🌱 I’m currently learning **TypeScript, React Native, Next.js**
+ 🌱 I’m currently learning **TypeScript, Golang, Next.js**
 
 💬 Ask me about **JavaScript, TypeScript, React, Tailwind CSS... or anything [here](https://github.com/ElvinWeb/ElvinWeb/issues)**
 
