@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **[Ping Panda](https://github.com/ElvinWeb/PingPanda.git) project(SaaS)**
  
- 🌱 I’m currently learning **TypeScript, Golang, Next.js**
+ 🌱 I’m currently learning **TypeScript, Testing, Next.js**
 
 💬 Ask me about **JavaScript, TypeScript, React, Tailwind CSS... or anything [here](https://github.com/ElvinWeb/ElvinWeb/issues)**
 
