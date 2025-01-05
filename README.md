@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[Ping Panda](https://github.com/ElvinWeb/PingPanda.git) project(SaaS)**
+ 🔭 I’m currently working on **startup project(B2B Marketplace)**
  
  🌱 I’m currently learning **TypeScript, Testing, Next.js**
 
