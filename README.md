@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **startup project(B2B Marketplace)**
  
- 🌱 I’m currently learning **TypeScript, Testing, Next.js**
+ 🌱 I’m currently learning **TypeScript, Next.js, Oracle Cloud**
 
 💬 Ask me about **JavaScript, TypeScript, React, Tailwind CSS... or anything [here](https://github.com/ElvinWeb/ElvinWeb/issues)**
 
