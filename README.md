@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👨‍💻;+I'm+Elvin+Sarkarov;" />
 </h1>
 
-<h3 align="center">A passionate Software Developer from Azerbaijan</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **private project**
+ 🔭 I’m currently working on **online bank project**
  
- 🌱 I’m currently learning **TypeScript, Next.js, Oracle Cloud**
+ 🌱 I’m currently learning **Software testing, Node.js, DevOps, Security Best Practices**
 
-💬 Ask me about **JavaScript, TypeScript, React, Tailwind CSS... or anything [here](https://github.com/ElvinWeb/ElvinWeb/issues)**
+💬 Ask me about **JavaScript, TypeScript, React.js, Next.js... or anything [here](https://github.com/ElvinWeb/ElvinWeb/issues)**
 
  </div>
  
@@ -22,7 +22,7 @@
   <a href="mailto:elvinsrkrov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/elvin-sərkərov-886690236" target="_blank">
+  <a href="https://www.linkedin.com/in/elvin-sərkərov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
  <!-- <a href="https://my-portfolio-elvn.vercel.app/" target="_blank">
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,mui,styledcomponents,html,css,sass,vscode,github,git,figma,appwrite" />
-    <img src="https://skillicons.dev/icons?i=js,nextjs,typescript,webpack,jquery,npm,yarn,babel,vercel,netlify,sentry,postman,vite,supabase" /><br>
+    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,mui,styledcomponents,html,css,sass,vscode,github,gitlab,git,figma,appwrite" />
+    <img src="https://skillicons.dev/icons?i=js,nextjs,typescript,jest,webpack,jquery,npm,yarn,babel,vercel,netlify,sentry,postman,vite,supabase" /><br>
 </div>
 
 <br/>
