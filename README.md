@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **online bank project**
  
- 🌱 I’m currently learning **Software Testing, Backend, Security Best Practices**
+ 🌱 I’m currently learning **Software Testing, Backend(Golang & Node.js), Security Best Practices**
 
 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js... or anything [here](https://github.com/ElvinWeb/ElvinWeb/issues)**
 
